@@ -9,3 +9,7 @@ func main() {
 func addCard() string {
   return "Five cards!"
 }
+
+func aseShades() int {
+  return 5
+}
