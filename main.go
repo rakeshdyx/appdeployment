@@ -13,3 +13,7 @@ func addCard() string {
 func aseShades() int {
   return 5
 }
+
+func aseShades() []string {
+  return "red blue yellow"
+}
