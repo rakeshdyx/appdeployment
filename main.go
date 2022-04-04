@@ -9,3 +9,7 @@ func main() {
 func aseShades() int {
   return 5
 }
+
+func listOfArray() []int {
+  return 5, 10, 15
+}
